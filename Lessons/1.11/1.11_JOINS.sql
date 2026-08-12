@@ -1,5 +1,5 @@
 SELECT 
-    jpf.job_id,
+    jpf.job_country,
     jpf.job_title_short,
     cd.name AS company_name,
     jpf.job_location  
